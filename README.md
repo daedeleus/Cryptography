@@ -1,10 +1,10 @@
-Basic cryptography types in one repository
-Working
+Basic cryptography types in one repository \n
+Working \n
 - rot13 (caeser's shift)
 - successive shift encoding
 - vignere's cipher
-Under construction
+Under construction\n
 - AES encryption
-Future
+Future \n
 - Blowfish
 - Assymetric encryption (TBD)
